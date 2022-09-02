@@ -1,3 +1,3 @@
 # jest-testing
 
-Learn to write utin tests for different cases
+Learn to write unit tests for different cases
